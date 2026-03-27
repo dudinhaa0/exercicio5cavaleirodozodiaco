@@ -1,0 +1,33 @@
+body {
+  background: #0f172a;
+  color: #f1f5f9;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  max-width: 600px;
+  margin: 20px auto;
+  display: block;
+}
+
+button {
+  background: rgb(240, 205, 49);
+  color: white;
+  border: none;
+  padding: 15px 25px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: darkred;
+}
+
+.pequena{
+    width: 40%;
+    height: 40%;
+}

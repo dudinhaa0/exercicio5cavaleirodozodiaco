@@ -1,1 +1,1 @@
-# exercicio5cavaleirodozodiaco
+# Exerc-cio-5-M-dulo-3-Operadores-e-Intera-o-com-o-Usu-rio-em-JS
